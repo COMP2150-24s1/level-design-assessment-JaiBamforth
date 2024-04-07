@@ -5,7 +5,6 @@
 ## 1. Player Experience
 
 ### 1.1. Discovery
-What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
 
 The player learns how to navigate and explore a 2D space and discover objectives that allow them to complete the goal of the level. The core mechanics are communicated at the start of the game, allowing the player to discover how to move around the level and avoid obstacles. Players discover interesting combinations of various core mechanics as they progess, as they must learn how to use their basic core skills in tandem to complete and encounter.
 
@@ -115,7 +114,7 @@ I added various other small things into the level that helped to refine certain 
 
 These moving platforms specifically were changed, going from 4 up-and-down platforms to 2, with a break in between before the final platform. The timing of the platforms didn't work the way I had intended to, so I had to change the layout or the encounter didn't flow well.
 
-![final spitter encounter](DocImages/finalspitter.png)
+![final spitter encounter](DocImages/objective.png)
 
 This above section featuring the final encounter of the level could have been improved more with some iterative design. The intent here was to create a somewhat "bullet hell" for the player to navigate through on the small platform. However, due to spitters being quite slow to shoot, the player doesn't experience much danger and can actually stand still through the encounter. I tried adding extra spitters (3 -> 5) to increase the difficulty, but it didn't do much to help. Iterative design would certainly help with tweaking this encounter to reach the intended challenge.
 
