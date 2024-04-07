@@ -39,62 +39,56 @@ You should restructure the headings below to match the order they appear in your
 
 ### 2.1. Acid
 
-!(DocImages/acidSB.png)
+![](DocImages/acidSB.png)
 
 bing bong
 
 ### 2.2. Spikes
 
-!(DocImages/spikesSB.png)
+![](DocImages/spikesSB.png)
 
 ### 2.3. Moving Platforms and Health Pickup
 
-!(DocImages/movingSB.png)
+![](DocImages/movingSB.png)
 
 ### 2.4. Checkpoints, Keys and Key Door
 
-!(DocImages/checkpointSB.png)
+![](DocImages/checkpointSB.png)
 
 ### 2.5. Gun Pickup and Spitters
 
-!(DocImages/gunSB.png)
+![](DocImages/gunSB.png)
 
 ### 2.6. Passthrough Platforms
 
-!(DocImages/passSB.png)
+![](DocImages/passSB.png)
 
 ### 2.7. Staff Pickup and Chompers
 
-!(DocImages/chompSB.png)
-!(DocImages/chompSB2.png)
+![](DocImages/chompSB.png)
+![](DocImages/chompSB2.png)
 
 ### 2.8. Destructable Columns
 
-!(DocImages/columnSB.png)
-
-### 2.9. Spitters
-
-### 2.10. Weapon Pickup (Gun)
-
-### 2.11. Weapon Pickup (Staff)
+![](DocImages/columnSB.png)
 
 ## 3. Spatiotemporal Design
 
 ### 3.1. Molecule Diagram
 
-!(DocImages/molecule.png)
+![](DocImages/molecule.png)
 
 ### 3.2. Level Map – Section 1
 
-!(DocImages/section1map.png)
+![](DocImages/section1map.png)
 
 ### 3.3.	Level Map – Section 2
 
-!(DocImages/section2map.png)
+![](DocImages/section2map.png)
 
 ### 3.4.	Level Map – Section 3
 
-!(DocImages/section3map.png)
+![](DocImages/section3map.png)
 
 ## 4. Iterative Design (~400 words)
 Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
