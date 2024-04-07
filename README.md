@@ -39,19 +39,38 @@ You should restructure the headings below to match the order they appear in your
 
 ### 2.1. Acid
 
-### 2.2. Checkpoints
+!(DocImages/acidSB.png)
 
-### 2.3. Chompers
+bing bong
 
-### 2.4. Health Pickups
+### 2.2. Spikes
 
-### 2.5. Keys
+!(DocImages/spikesSB.png)
 
-### 2.6. Moving Platforms
+### 2.3. Moving Platforms and Health Pickup
 
-### 2.7. Passthrough Platforms
+!(DocImages/movingSB.png)
 
-### 2.8. Spikes
+### 2.4. Checkpoints, Keys and Key Door
+
+!(DocImages/checkpointSB.png)
+
+### 2.5. Gun Pickup and Spitters
+
+!(DocImages/gunSB.png)
+
+### 2.6. Passthrough Platforms
+
+!(DocImages/passSB.png)
+
+### 2.7. Staff Pickup and Chompers
+
+!(DocImages/chompSB.png)
+!(DocImages/chompSB2.png)
+
+### 2.8. Destructable Columns
+
+!(DocImages/columnSB.png)
 
 ### 2.9. Spitters
 
@@ -60,17 +79,22 @@ You should restructure the headings below to match the order they appear in your
 ### 2.11. Weapon Pickup (Staff)
 
 ## 3. Spatiotemporal Design
-A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
 
-No additional words are necessary for this section (any words should only be within your images/diagrams).
- 
 ### 3.1. Molecule Diagram
+
+!(DocImages/molecule.png)
 
 ### 3.2. Level Map – Section 1
 
+!(DocImages/section1map.png)
+
 ### 3.3.	Level Map – Section 2
 
+!(DocImages/section2map.png)
+
 ### 3.4.	Level Map – Section 3
+
+!(DocImages/section3map.png)
 
 ## 4. Iterative Design (~400 words)
 Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
