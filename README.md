@@ -39,56 +39,56 @@ You should restructure the headings below to match the order they appear in your
 
 ### 2.1. Acid
 
-![This is the alt text for an image!](DocImages/acidSB.png)
+![acid storyboard](DocImages/acidSB.PNG)
 
 bing bong
 
 ### 2.2. Spikes
 
-![This is the alt text for an image!](DocImages/spikesSB.png)
+![spikes storyboard](DocImages/spikesSB.PNG)
 
 ### 2.3. Moving Platforms and Health Pickup
 
-![This is the alt text for an image!](DocImages/movingSB.png)
+![moving platforms and health storyboard](DocImages/movingSB.PNG)
 
 ### 2.4. Checkpoints, Keys and Key Door
 
-![This is the alt text for an image!](DocImages/checkpointSB.png)
+![checkpoints, keys and key door storyboard](DocImages/checkpointSB.PNG)
 
 ### 2.5. Gun Pickup and Spitters
 
-![This is the alt text for an image!](DocImages/gunSB.png)
+![gun and spitters storyboard](DocImages/gunSB.PNG)
 
 ### 2.6. Passthrough Platforms
 
-![This is the alt text for an image!](DocImages/passSB.png)
+![passthrough storyboard](DocImages/passSB.PNG)
 
 ### 2.7. Staff Pickup and Chompers
 
-![This is the alt text for an image!](DocImages/chompSB.png)
-![This is the alt text for an image!](DocImages/chompSB2.png)
+![staff and chompers storyboard 1](DocImages/chompSB.PNG)
+![staff and chompers storyboard 2](DocImages/chompSB2.PNG)
 
 ### 2.8. Destructable Columns
 
-![This is the alt text for an image!](DocImages/columnSB.png)
+![columns storyboard](DocImages/columnSB.PNG)
 
 ## 3. Spatiotemporal Design
 
 ### 3.1. Molecule Diagram
 
-![This is the alt text for an image!](DocImages/molecule.png)
+![molecule diagram](DocImages/molecule.PNG)
 
 ### 3.2. Level Map – Section 1
 
-![This is the alt text for an image!](DocImages/section1map.png)
+![level map section 1](DocImages/section1map.PNG)
 
 ### 3.3.	Level Map – Section 2
 
-![This is the alt text for an image!](DocImages/section2map.png)
+![level map section 2](DocImages/section2map.PNG)
 
 ### 3.4.	Level Map – Section 3
 
-![This is the alt text for an image!](DocImages/section3map.png)
+![level map section 3](DocImages/section3map.PNG)
 
 ## 4. Iterative Design (~400 words)
 Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
